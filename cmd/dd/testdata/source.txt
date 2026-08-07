@@ -1,4 +1,4 @@
-[1]     File len (25).
+[1]     File lines (26//ending with a new line).
 [2]
 [3]     Hello, I'm a simple text file to test a linux command. man(cmd)
 [4]     ---
